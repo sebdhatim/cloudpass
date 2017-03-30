@@ -65,7 +65,7 @@
   "devDependencies": {
     "bootprint": "1.0.0",
     "bootprint-openapi": "1.0.1",
-    "coveralls": "2.12.0",
+    "coveralls": "2.13.0",
     "cross-conf-env": "1.1.2",
     "dockerode": "2.4.2",
     "dockerode-promise": "0.1.0",
