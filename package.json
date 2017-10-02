@@ -59,7 +59,7 @@
     "swagger-express-mw": "0.7.0",
     "throw": "1.1.0",
     "umzug": "2.0.1",
-    "winston": "2.3.1",
+    "winston": "3.0.0-rc0",
     "winston-config": "0.5.1"
   },
   "devDependencies": {
